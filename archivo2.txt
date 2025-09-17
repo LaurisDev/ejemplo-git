@@ -1,4 +1,4 @@
-Modificado: Clase De Gestion
+modificado clase gestion
 
-otra rama  
-modificaciones de july <3
+linea distinta a la main
+cambios de la rama main en conflicto 
